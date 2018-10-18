@@ -560,18 +560,14 @@ a.simpleCart_empty {
     min-height:500px!important;
     padding-top:10em;
 }
-/*-- banner --*/
-.carousel .item img{
 
-    object-fit: cover;
-}
-
-.carousel .item{
-	background: url(../images/banner/banner1.png) no-repeat;
-	background:url(../images/banner/banner1.png) no-repeat;
-	background:url(../images/banner/banner1.png) no-repeat;
-	background: linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)),url(../images/banner/banner2.png) no-repeat;
-	background-size:cover;
+/*-- banner --*/  
+.carousel .item{    
+	background:-webkit-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/bannerulos.jpg) no-repeat;
+	background:-moz-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/bannerulos.jpg) no-repeat;
+	background:-ms-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/bannerulos.jpg) no-repeat; 
+	background:linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/bannerulos.jpg) no-repeat;
+	background-size:cover;	 
 }
 .carousel .item.item2{   
 	background:-webkit-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/banner/banner3.png) no-repeat;
