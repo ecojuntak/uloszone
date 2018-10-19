@@ -1,8 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9b135cfa-5a0a-464b-9128-a44dee9892b5" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    <list default="true" id="9b135cfa-5a0a-464b-9128-a44dee9892b5" name="Default" comment="Merge branch 'master' of https://github.com/ecojuntak/uloszone&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <change beforePath="" afterPath="$PROJECT_DIR$/css/bootstrap2.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/Banner/banner1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/Banner/banner2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/Banner/banner3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/Logo/uloszone_clear.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/Produk/Ulos Sadum.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/Produk/Ulos_Bintang Maratur.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/Produk/Ulos_Lobu lobu.jpeg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/Produk/Ulos_Lobu-lobu.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/Produk/Ulos_Mangiring.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/Produk/Ulos_Pinuncaan.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/Produk/Ulos_Ragi_Idup.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/Produk/Ulos_Sibolang.JPG" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/Produk/Ulos_Sitolu_Tuho.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/Produk/Ulos_Tuntuman.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/baju1.PNG" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/bannerulos.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/logo_ulos.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/mangiring.JPG" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/ragihidup.jpeg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/ragihotang.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/ragihotang2.jpeg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/ragihotang3.jpeg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/ragihotang4.JPG" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/sadum.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/sadum1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/sadum2.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/sadum3.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/sadum4.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/uloszone_copy.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/list_story.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/payment_verification.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/shipment_verification.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/story.html" />
+      <change beforePath="$PROJECT_DIR$/contact.html" afterPath="$PROJECT_DIR$/contact.html" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap.css" afterPath="$PROJECT_DIR$/css/bootstrap.css" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
+      <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change beforePath="$PROJECT_DIR$/single.html" afterPath="$PROJECT_DIR$/single.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -22,8 +60,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="356">
-              <caret line="735" column="30" lean-forward="true" selection-start-line="735" selection-start-column="30" selection-end-line="735" selection-end-column="30" />
+            <state relative-caret-position="283">
+              <caret line="735" column="30" lean-forward="false" selection-start-line="735" selection-start-column="30" selection-end-line="735" selection-end-column="30" />
               <folding>
                 <element signature="n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#0;n#div#0;n#div#1;n#div#0;n#div#6;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -47,7 +85,7 @@
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="6460">
-              <caret line="380" column="1" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="5558" selection-end-column="36" />
+              <caret line="380" column="1" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="5558" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -138,8 +176,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -151,6 +187,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -191,6 +229,7 @@
       <workItem from="1539823276860" duration="4411000" />
       <workItem from="1539829361824" duration="14147000" />
       <workItem from="1539856739837" duration="360000" />
+      <workItem from="1539918183345" duration="32000" />
     </task>
     <task id="LOCAL-00001" summary="homepage">
       <created>1539830096947</created>
@@ -210,7 +249,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="52542000" />
+    <option name="totallyTimeSpent" value="52574000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
@@ -250,6 +289,34 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#1;n#div#0;n#div#6;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#10;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6460">
+          <caret line="380" column="1" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="5558" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104754">
+          <caret line="6162" column="0" lean-forward="false" selection-start-line="6162" selection-start-column="0" selection-end-line="6165" selection-end-column="105" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -418,8 +485,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="356">
-          <caret line="735" column="30" lean-forward="true" selection-start-line="735" selection-start-column="30" selection-end-line="735" selection-end-column="30" />
+        <state relative-caret-position="283">
+          <caret line="735" column="30" lean-forward="false" selection-start-line="735" selection-start-column="30" selection-end-line="735" selection-end-column="30" />
           <folding>
             <element signature="n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#0;n#div#0;n#div#1;n#div#0;n#div#6;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -439,7 +506,7 @@
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="6460">
-          <caret line="380" column="1" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="5558" selection-end-column="36" />
+          <caret line="380" column="1" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="5558" selection-end-column="25" />
           <folding />
         </state>
       </provider>
